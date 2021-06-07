@@ -1,0 +1,3 @@
+[submodule "Django-react-app"]
+	path = Django-react-app
+	url = https://github.com/Kp31072001/Django-react-app.git
